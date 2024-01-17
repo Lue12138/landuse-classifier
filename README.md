@@ -5,7 +5,7 @@ This project is a satellite land use classifier built using the GoogLeNet archit
 
 ## Features
 - Utilizes the powerful GoogLeNet architecture.
-- High accuracy in classifying various types of land use compared to baseline.
+- High accuracy (93.5%) in classifying various types of land use compared to baseline.
 - A simply web UI is provided to help processes satellite images efficiently.
 
 ## Source of the data
